@@ -1,4 +1,4 @@
 package edu.hogwarts.studentadmin.services;
 
-public class StudentService {
+public class StudentServic {
 }
